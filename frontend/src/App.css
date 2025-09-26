@@ -1,0 +1,27 @@
+body {
+    background-color: #6b4fb8;
+}
+.btn {
+    background-color: #6b4fb8;
+    color: white;
+    width: 100%;
+    
+}
+.btn:hover {
+    background-color: #35275e;
+    color: white;
+}
+.text-link {
+    color: #6b4fb8;
+    text-decoration: none;
+}
+
+.input-group-text {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-left: none;
+}
+
+.form-control {
+    border-right: none;
+}
